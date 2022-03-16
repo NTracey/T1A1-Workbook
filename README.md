@@ -26,7 +26,7 @@ Data are split into pieces or information which are then called packets. The are
 Internet Protocol addresses (IP) are identified through devices or a local network to communicate with each other. (Kaspersky n.d)
 ThousandEye (n.d) covers the difference between IPv4 and IPv6:
 
--  **IPv4 (Internet Protocol version 4):** 
+- **IPv4 (Internet Protocol version 4):** 
   
   The original version of Internet Protocol. IPv4 is a 32-bit address, carrying 2^32 addresses which is approximately 4 billion addresses. It is the primary IP version that is widely used carrying ‘94% of the Internet traffic’. (Lawrence Williams 2022)
 
@@ -49,14 +49,19 @@ Abhishek Gupta (2018) mentions that Routing table can be static and dynamic.
 
 ### Domains and DNS
 
-Domain is interchangeable used with domain names, referring to the location of a website. A domain name can contain up to 63 characters (Computer Hope 2017). Top and second level domain refers to the first word such as ‘google’ and the last word of the domain name such as ‘.com’ (Marshal Brain, Nathan Chandler & Stephanie Crawford 2021).
-Domain Name System (DNS) connects to the internet through devices and servers. It converts domain names into IP addresses to locate and load the webpage (DNS Made Easy n.d). It is described that ‘The DNS concept is like a phone book for the internet.’ (Marshal Brain, Nathan Chandler & Stephanie Crawford 2021, para. 2)
+- **Domains:**
+  
+  The terms domain and domain name are interchangeable, referring to the location of a website. The length of a domain name can be up to 63 characters (Computer Hope 2017). The first word in a domain name, like 'google,' and the last word, such as '.com,' are referred to as top and second level domains. (Marshal Brain, Nathan Chandler & Stephanie Crawford 2021).
+
+- **DNS:**
+  
+  The Domain Name System (DNS) connects devices and servers to the internet. To locate and load the webpage, it converts domain names into IP addresses (DNS Made Easy n.d). 'The DNS concept is like a phone book for the internet' according to Marshal Brain, Nathan Chandler, and Stephanie Crawford's (2021).
 
 ## `Q3`
 
 #### TCP
 
-Fortinet (n.d) states that ‘TCP is a communication standard to exchange messages over the network’.  is to ensure that the data and message is delivered successfully over the network (Fortinet n.d). Once the TCP client and server is established which the server can either accept or reject, the connection stays open until the connection is terminated by either client or server (TAL tech n.d). TCP splits the messages in packets from the server, numbers, and sends them to their destination (sdx central 2022).
+Fortinet (n.d) states that ‘TCP is a communication standard to exchange messages over the network’. It is to ensure that the data and message is delivered successfully over the network (Fortinet n.d). Once the TCP client and server is established which the server can either accept or reject, the connection stays open until the connection is terminated by either client or server (TAL tech n.d). TCP splits the messages in packets from the server, numbers, and sends them to their destination (sdx central 2022).
 
 #### HTTP and HTTPS
 
@@ -70,21 +75,58 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 #### Web browsers (requests, rendering and developer tools)
 
+- **Request:** 
+  
+  A web request is a communication message sent from the client, or web browser, to the server to access resources which the server will then send a response (Source Defense n.d). 
+
+- **Rendering:**
+
+  Rendering is a web development process that converts website code into the interactive pages that users see when they visit a site. The word refers to the use of HTML, CSS, and JavaScript codes mainly. A rendering engine, the software that allows a web browser to render a web page, completes the process (Seobility n.d).
+
+- **Developer tools:**
+
+  Developer tools has software, platforms, and add-ons are common across browsers. They can help developers in producing high-quality code more quickly. The tools that help get rid of friction, distractions, and context switches (Elinor Swery 2021).
+
 ## `Q4`
 
 
 ## `Q5`
 
 *Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages* (2018) explains that the source codes, a high level language that can be understood by humans are converted into machine language which uses binary by either interpreter and/or compilers. 
-- Interpreter: The source code is copied, and the machine interprets ‘one statement at a time into machine code’ (BI India Bureau 2019). Therefore, the execution time is slower compared to compilers. It will continue to translate until there is an error message making debugging easier. Examples of Interpreted languages are Ruby and Python.
-- Compilers: The program is scanned and translated at once, creating a separate file containing the machine code. Error message appears only after it scans the complete program causing debugging to be harder. Compiled programming languages are C and C++, etc. (BI India Bureau 2019).
+
+- **Interpreter:** 
+  
+  The source code is copied, and the machine interprets ‘one statement at a time into machine code’ (BI India Bureau 2019). Therefore, the execution time is slower compared to compilers. It will continue to translate until there is an error message making debugging easier. Examples of Interpreted languages are Ruby and Python.
+
+- **Compilers:** 
+  
+  The program is scanned and translated at once, creating a separate file containing the machine code. Error message appears only after it scans the complete program causing debugging to be harder. Compiled programming languages are C and C++, etc. (BI India Bureau 2019).
   
 ## `Q6`
 
+**JavaScript**
+
+- **Advantages:**
+  
+  JavaScript is a client-side script that runs quickly.  It is easy to learn and understand due to its simple structure.  It is a popular program among developers and is supported by all modern browsers. JavaScript can be embedded into any webpage or another programming language. Drag and drop functionality, and components like sliders, help to improve the site's user-interactivity.
+
+- **Disadvantages:**
+  
+  People may exploit JavaScript code for malicious purposes, such as using the source code without authentication or disabling JavaScript entirely, due to a lack of client-side security. JavaScript is occasionally interpreted differently by different browsers. As a result, before publishing, the code should be checked in all main browsers (freeCodeCamp 2019).
+
+**Ruby**
+
+- **Advantages:**
+
+  Ruby on rails is an open-source framework that is simple to learn due to its intuitive and user-friendly syntax features. It is also considered a secure technology due to its built-in securities and functionalities (Jakub Jakubowicz 2020). Because of the DRY rule, developers write less code while using RoR, which speeds up application development process. RoR has many open-source libraries which are called gems that enhance or extend the existing functionalities. RoR is supported by an active community of web developers.
+
+- **Disadvantage:**
+
+  There are less creativity, less flexibility due to many default, and set objects. Incorrect decisions made early in the development process can significantly slow down your entire application, cause connectivity issues between different parts of the software, and result in unintended effects (Victor Rak 2021). When compared to competing frameworks like Django and Node.js, RoR has a sluggish runtime speed and performance (Full Scale 2020).
 
 ## `Q7`
 
-
+ 
 ## `Q8`
 
 
