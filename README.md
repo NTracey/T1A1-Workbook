@@ -5,6 +5,7 @@ ___
 Markup language is a human readable computer language written in plain text. All markup languages share a common feature which are tags to help specify different contents and create structures on the webpage. Common markup languages include HTML, and XML (Per Christensson 2022).
 
 Markup languages are understood by web browsers due to the standards based on the consistency in processing documents by markup languages (IPL n.d).
+
 BYJU’S (n.d) states as the following:
 
 - **HTML (HyperText Markup language):** 
