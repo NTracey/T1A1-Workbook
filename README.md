@@ -152,4 +152,8 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 ## Q15
 
 
+<<<<<<< HEAD
 ## Q16
+=======
+## `Q16`
+>>>>>>> 3377087d444218220b7d8259317f3d1152dbf497
