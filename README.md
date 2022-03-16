@@ -1,10 +1,11 @@
 # T1A1 - Workbook
-___
-## `Q1`
+---
+## Q1
 
 Markup language is a human readable computer language written in plain text. All markup languages share a common feature which are tags to help specify different contents and create structures on the webpage. Common markup languages include HTML, and XML (Per Christensson 2022).
 
 Markup languages are understood by web browsers due to the standards based on the consistency in processing documents by markup languages (IPL n.d).
+
 BYJU’S (n.d) states as the following:
 
 - **HTML (HyperText Markup language):** 
@@ -15,7 +16,7 @@ BYJU’S (n.d) states as the following:
   
   Stores and transfers data.
 
-## `Q2`
+## Q2
 
 ### Packets
 
@@ -57,7 +58,7 @@ Abhishek Gupta (2018) mentions that Routing table can be static and dynamic.
   
   The Domain Name System (DNS) connects devices and servers to the internet. To locate and load the webpage, it converts domain names into IP addresses (DNS Made Easy n.d). 'The DNS concept is like a phone book for the internet' according to Marshal Brain, Nathan Chandler, and Stephanie Crawford's (2021).
 
-## `Q3`
+## Q3
 
 #### TCP
 
@@ -71,7 +72,7 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 - **HTTPS (Secure Hypertext Transfer Protocol):** 
   
-  HTTPS has a security feature using TLS (Transport Layer Security), an improved version of SSL (Secure Sockets Layer) on HTTP. The data transferred are encrypted to ensure the data transferred between the client and server is secure and is no longer sent in clear text (SSL, TLS, HTTP, HTTPS Explained 2018). A padlock would be included in the URL to indicate that website is secure on most browsers for HTTPS otherwise without the security feature they will be flagged as not secure (Cloudflare n.d). HTTPS uses port 443. 
+  HTTPS has a security feature using TLS (Transport Layer Security), an improved version of SSL (Secure Sockets Layer) on HTTP. The data transferred are encrypted to ensure the data transferred between the client and server is secure and is no longer sent in clear text (_SSL, TLS, HTTP, HTTPS Explained_ 2018). A padlock would be included in the URL to indicate that website is secure on most browsers for HTTPS otherwise without the security feature they will be flagged as not secure (Cloudflare n.d). HTTPS uses port 443. 
 
 #### Web browsers (requests, rendering and developer tools)
 
@@ -87,10 +88,10 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
   Developer tools has software, platforms, and add-ons are common across browsers. They can help developers in producing high-quality code more quickly. The tools that help get rid of friction, distractions, and context switches (Elinor Swery 2021).
 
-## `Q4`
+## Q4
 
 
-## `Q5`
+## Q5
 
 *Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages* (2018) explains that the source codes, a high level language that can be understood by humans are converted into machine language which uses binary by either interpreter and/or compilers. 
 
@@ -102,7 +103,7 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
   
   The program is scanned and translated at once, creating a separate file containing the machine code. Error message appears only after it scans the complete program causing debugging to be harder. Compiled programming languages are C and C++, etc. (BI India Bureau 2019).
   
-## `Q6`
+## Q6
 
 **JavaScript**
 
@@ -124,31 +125,31 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
   There are less creativity, less flexibility due to many default, and set objects. Incorrect decisions made early in the development process can significantly slow down your entire application, cause connectivity issues between different parts of the software, and result in unintended effects (Victor Rak 2021). When compared to competing frameworks like Django and Node.js, RoR has a sluggish runtime speed and performance (Full Scale 2020).
 
-## `Q7`
+## Q7
 
  
-## `Q8`
+## Q8
 
 
-## `Q9`
+## Q9
 
 
-## `Q10`
+## Q10
 
 
-## `Q11`
+## Q11
 
 
-## `Q12`
+## Q12
 
 
-## `Q13`
+## Q13
 
 
-## `Q14`
+## Q14
 
 
-## `Q15`
+## Q15
 
 
-## `Q16`
+## Q16
