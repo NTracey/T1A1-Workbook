@@ -90,44 +90,7 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 ## Q4
 
-Control flow, also known as control structures, indicates the computer to complete a specific action based on whether or not a condition is met (Nayak N 2020). Reserved keywords such as if, else, elsif, and end are used for logical structures (conditionals) (Sonia Dumitru 2019).
 
-Sonia Dumitru (2019) describes the following conditional statements:
-- **Break statement:** 
-  
-  Exits a loop when the condition is true or terminates a method.
-
-  Syntax `break`
-
-- **Next statement:**
-  
-  Jumps to the next iteration of the loop or, if called within a block, terminates that block's execution.
-
-  Syntax `next`
-
-- **Redo statement:**
-  
-  The redo statement is used to restart a loop's or iterator's current iteration. The redo statement transfers the control back to the top of the block or loop, allowing iteration to begin again.
-
-  Syntax `redo`
-
-- **Retry statement:**
-  
-  It is used to retry a piece of code in a block.
-
-  Syntax `retry`
-
-- **Return statement:**
-  
-  Exits the method, even if it has a value or not. It always returns its caller a value.
-
-  Syntax `return`
-
-- **Throw/catch statement:**
-  
-  The throw keyword is used to break the current loop and transfer control outside of the catch block.
-
-  Syntax `throw/catch`
 
 ## Q5
 
@@ -168,6 +131,152 @@ Sonia Dumitru (2019) describes the following conditional statements:
  
 ## Q8
 
+Control flow, also known as control structures, indicates the computer to complete a specific action based on whether or not a condition is met (Nayak N 2020). Reserved keywords such as if, else, elsif, and end are used for logical structures (conditionals) (Sonia Dumitru 2019).
+
+Nayak N (2020) explains in the control flow video
+
+- **if Statement**
+
+  The control flow begins with the if keyword, then checks to see if the condition is true, and ends the control flow with the keyword end. The if, elsif, and else keyword is either executed based on whether it is true or false. 
+
+  ```
+  raining = true
+
+  if raining
+    puts "Carry umbrella"
+  else
+    puts "Don't carry umbrella"
+  end
+  ```
+
+- **Ternary operator**
+  
+  The ternary operator is a shorter version for if else statements, and it works best with only one line of code in if and else block. '?' and ':' are used instead of if and else statements.
+
+  ```
+  raining = true
+
+  puts raining ? "Carry umbrella" : "Don't carry umbrella"
+  ```
+
+- **Case Statement**
+  
+  An alternate syntax to the if else statement is the case when statement. The control flow begins with the keyword case, which then determines whether or not a condition matches with the when statement. If no other statement matches, the control flow is ended with end keyword. Case statements should not be used for simple logic such as true or false.
+
+  ```
+  capacity = 21
+  
+  case capacity
+  when 0
+    "You ran out of gas"
+  when 1..20
+    "The tank is almost empty"
+  when 21..70
+    "You should be ok for now"
+  when 71..100
+    "The tank is almost full"
+  else
+    "Error: capacity has an invalid value (#{capacity})"
+  end
+  ```
+
+Sonia Dumitru (2019) describes the following **Control Flow Alteration**:
+- **Break statement:** 
+  
+  Exits a loop when the condition is true or terminates a method.
+
+  Syntax `break`
+  
+  Nayak N. (2020) uses the example in the following:
+  
+  ```
+  iteration = 0
+
+  while true
+    iteration += 1
+    puts "Iteration #{iterations}"
+    break
+  end
+  ```
+
+- **Next statement:**
+  
+  Jumps to the next iteration of the loop or, if called within a block, terminates that block's execution.
+
+  Syntax `next`
+
+  Nayak N (2020) explains the example in the Recording:
+
+  ```
+  iteration = 0
+
+  while true
+    iteration += 1
+    if iterations % 2 != 0
+      next
+    end
+    puts "Iteration #{iterations}"
+    break
+  end
+  ```
+
+- **Redo statement:**
+  
+  The redo statement is used to restart a loop's or iterator's current iteration. The redo statement transfers the control back to the top of the block or loop, allowing iteration to begin again.
+
+  Syntax `redo`
+
+  ```
+  restart = false
+  
+  or x in 2..20
+    if x == 15
+      if restart == false
+        puts "Re-doing when x = " + x.to_s
+        restart = true
+        redo
+        end
+    end
+    puts x
+  end
+  ```
+
+- **Retry statement:**
+  
+  It is used to retry a piece of code in a block.
+
+  Syntax `retry`
+
+  ```
+  10.times do |i|
+    begin
+      puts "Iteration #{i}"
+      raise if i > 2
+    rescue
+      retry
+    end
+  end
+  ```
+
+- **Return statement:**
+  
+  Exits the method, even if it has a value or not. It always returns its caller a value.
+
+  Syntax `return`
+
+  ```
+
+  ```
+
+- **Throw/catch statement:**
+  
+  The throw keyword is used to break the current loop and transfer control outside of the catch block.
+
+  Syntax `throw/catch`
+
+  ```
+
+  ```
 
 ## Q9
 
