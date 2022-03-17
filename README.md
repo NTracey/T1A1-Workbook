@@ -90,6 +90,44 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 ## Q4
 
+Control flow, also known as control structures, indicates the computer to complete a specific action based on whether or not a condition is met (Nayak N 2020). Reserved keywords such as if, else, elsif, and end are used for logical structures (conditionals) (Sonia Dumitru 2019).
+
+Sonia Dumitru (2019) describes the following conditional statements:
+- **Break statement:** 
+  
+  Exits a loop when the condition is true or terminates a method.
+
+  Syntax `break`
+
+- **Next statement:**
+  
+  Jumps to the next iteration of the loop or, if called within a block, terminates that block's execution.
+
+  Syntax `next`
+
+- **Redo statement:**
+  
+  The redo statement is used to restart a loop's or iterator's current iteration. The redo statement transfers the control back to the top of the block or loop, allowing iteration to begin again.
+
+  Syntax `redo`
+
+- **Retry statement:**
+  
+  It is used to retry a piece of code in a block.
+
+  Syntax `retry`
+
+- **Return statement:**
+  
+  Exits the method, even if it has a value or not. It always returns its caller a value.
+
+  Syntax `return`
+
+- **Throw/catch statement:**
+  
+  The throw keyword is used to break the current loop and transfer control outside of the catch block.
+
+  Syntax `throw/catch`
 
 ## Q5
 
