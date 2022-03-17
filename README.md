@@ -135,8 +135,24 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 
 ## Q10
+The **Ruby** data types are explained by the Expresso Team (n.d.) are:
+| Data types | Description                                                                                                                                                                        | Example                                       |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Numbers    | A number is a series of digits, using dot as a decimal mark. The two most common types of numbers are integers and floats, and Ruby can handle both.                               | age = 12 distance = 3.75                      |
+| Boolean    | A boolean data type only has one bit of information: true or false.                                                                                                                | !!"hi" #=> true                               |
+| Strings    | A string is a group of letters that make up a sentence or a word. Strings are made up of characters enclosed in single (") or double ("") quotes.                                  | puts "Hello World!"                           |
+| Hashes     | A hash contains key-value pairs, and the value can be assigned to a key by using the => sign. Key-value pairs are separated by commas, and all pairs are enclosed in curly braces. | grades = { "Jane Doe" => 10, "Jim Doe" => 6 } |
+| Arrays     | An array can hold a multiple of data types. The array's elements are separated by a comma and then enclosed in square brackets. The index of the array's first item is 00.         | ary = [1, "two", 3.0]                         |
+| Symbols    | Symbols are a lighter version of strings. They're preceded by a colon (:), and they're used instead of strings since they require less memory and perform better.                  | :food.to_s #=> "food"                         |
 
-
+Kenneth Leroy Busbee and Dave Braunschweig (n.d.) defines the following common data types:
+| Data types             | Description              | Example           |
+|------------------------|--------------------------|-------------------|
+| Integer                | Whole numbers            | -5, 0, 123        |
+| Floating points (real) | Fractional numbers       | -95.4, 0.0, 3.145 |
+| String                 | A sequence of characters | “Hello World!”    |
+| Boolean                | Logical true or false    | true, false       |
+| Nothing                | no data                  | nil               |
 ## Q11
 
 
@@ -151,9 +167,3 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 ## Q15
 
-
-<<<<<<< HEAD
-## Q16
-=======
-## `Q16`
->>>>>>> 3377087d444218220b7d8259317f3d1152dbf497
