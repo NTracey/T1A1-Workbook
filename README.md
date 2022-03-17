@@ -294,7 +294,7 @@ Sonia Dumitru (2019) describes the following:
   
   Exits the method, even if it has a value or not. It always returns its caller a value.
 
-  DevTut uses the examples below to explain:
+  DevTut (n.d) uses the examples below to explain:
 
   Syntax `return`
 
