@@ -60,11 +60,11 @@ Abhishek Gupta (2018) mentions that Routing table can be static and dynamic.
 
 ## Q3
 
-#### TCP
+### TCP
 
 Fortinet (n.d) states that ‘TCP is a communication standard to exchange messages over the network’. It is to ensure that the data and message is delivered successfully over the network (Fortinet n.d). Once the TCP client and server is established which the server can either accept or reject, the connection stays open until the connection is terminated by either client or server (TAL tech n.d). TCP splits the messages in packets from the server, numbers, and sends them to their destination (sdx central 2022).
 
-#### HTTP and HTTPS
+### HTTP and HTTPS
 
 - **HTTP (Hypertext Transfer Protocol):** 
   
@@ -74,7 +74,7 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
   
   HTTPS has a security feature using TLS (Transport Layer Security), an improved version of SSL (Secure Sockets Layer) on HTTP. The data transferred are encrypted to ensure the data transferred between the client and server is secure and is no longer sent in clear text (_SSL, TLS, HTTP, HTTPS Explained_ 2018). A padlock would be included in the URL to indicate that website is secure on most browsers for HTTPS otherwise without the security feature they will be flagged as not secure (Cloudflare n.d). HTTPS uses port 443. 
 
-#### Web browsers (requests, rendering and developer tools)
+### Web browsers (requests, rendering and developer tools)
 
 - **Request:** 
   
@@ -96,17 +96,17 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 *Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages* (2018) explains that the source codes, a high level language that can be understood by humans are converted into machine language which uses binary by either interpreter and/or compilers. 
 
-- **Interpreter:** 
+### Interpreter 
   
   The source code is copied, and the machine interprets ‘one statement at a time into machine code’ (BI India Bureau 2019). Therefore, the execution time is slower compared to compilers. It will continue to translate until there is an error message making debugging easier. Examples of Interpreted languages are Ruby and Python.
 
-- **Compilers:** 
+### Compilers
   
   The program is scanned and translated at once, creating a separate file containing the machine code. Error message appears only after it scans the complete program causing debugging to be harder. Compiled programming languages are C and C++, etc. (BI India Bureau 2019).
   
 ## Q6
 
-**JavaScript**
+### JavaScript
 
 - **Advantages:**
   
@@ -116,7 +116,7 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
   
   People may exploit JavaScript code for malicious purposes, such as using the source code without authentication or disabling JavaScript entirely, due to a lack of client-side security. JavaScript is occasionally interpreted differently by different browsers. As a result, before publishing, the code should be checked in all main browsers (freeCodeCamp 2019).
 
-**Ruby**
+### Ruby
 
 - **Advantages:**
 
@@ -131,7 +131,11 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
  
 ## Q8
 
+### Control Flow
+
 Control flow, also known as control structures, indicates the computer to complete a specific action based on whether or not a condition is met (Nayak N 2020). Reserved keywords such as if, else, elsif, and end are used for logical structures (conditionals) (Sonia Dumitru 2019).
+
+### Decision-making Statements
 
 Nayak N (2020) explains in the control flow video
 
@@ -179,8 +183,36 @@ Nayak N (2020) explains in the control flow video
     "Error: capacity has an invalid value (#{capacity})"
   end
   ```
+### Loop statements
 
-Sonia Dumitru (2019) describes the following **Control Flow Alteration**:
+- **While loop:** 
+  
+  Begin with the keyword while, then by a condition If the condition is true, the code is executed until the keyword end. Iteration must be done explicitly.
+
+  ```
+  iteration = 0
+
+  while iterations < 5
+    iterations += 1
+    puts iteration
+  end
+  ```
+
+- **For loop:**
+  
+  The key word for is followed by a range of values in the loop, which is like the while loop. It is not necessary to iterate explicitly.
+
+  ```
+  for num 1..5
+    puts num
+  end
+  ```
+
+
+### Control Flow Alteration
+
+Sonia Dumitru (2019) describes the following:
+
 - **Break statement:** 
   
   Exits a loop when the condition is true or terminates a method.
@@ -262,10 +294,20 @@ Sonia Dumitru (2019) describes the following **Control Flow Alteration**:
   
   Exits the method, even if it has a value or not. It always returns its caller a value.
 
+  DevTut uses the examples below to explain:
+
   Syntax `return`
 
   ```
-
+  def foo
+    bar = [1, 2, 3, 4].map do |x|
+      return 0 if x.even?
+      x
+    end
+    puts 'baz'
+    bar
+  end
+  foo
   ```
 
 - **Throw/catch statement:**
@@ -275,7 +317,16 @@ Sonia Dumitru (2019) describes the following **Control Flow Alteration**:
   Syntax `throw/catch`
 
   ```
+  catch(:out) do
+    catch(:nested) do
+      puts "nested"
+    end
 
+    puts "before"
+    throw :out
+    puts "will not be executed"
+  end
+  puts "after"
   ```
 
 ## Q9
