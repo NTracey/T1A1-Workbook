@@ -38,6 +38,7 @@ ThousandEye (n.d) covers the difference between IPv4 and IPv6:
 ### Routers and routing
 
 Routers is a network device that forwards packets to their destination by connecting to another IP network or subnetworks and passing data packets. When the router receives a packet, the packet header is read to see the intended destination (cloudflare n.d). The routing table which the routing information is checked to find the best routing entry ( Marcin Bialy 2018). 
+
 Abhishek Gupta (2018) mentions that Routing table can be static and dynamic.
 
 - **Static Routing:** 
@@ -90,7 +91,27 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 ## Q4
 
+### Arrays
 
+Array video was through explained in _Array_ (2020)
+
+An array is used store a list of values. Square brackets `[ ]` enclose an array, and the values are separated by commas. In Ruby, arrays can include any data type, such as integers, strings, and other arrays. An array's index starts at 0. If a value does not exist at a specific location in the array, array returns nil. The negative index begins with -1 for the array's last element.
+
+```
+days =  ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+```
+
+### Hashes
+
+_Hashes_ (2020) provides an introduction about hashes
+
+In a hash, a fat arrow => separates a set of key-value pairs. The hashes are enclosed by curly brackets `{ }`. The key can be a string, but symbols are preferable because they point to the same memory location. Values can be any data type separated by commas, including strings, symbols, arrays, and hashes. Values are accessed using the key.
+
+Syntax `{key => value}`
+
+```
+profile = {:name => “bob”, :age => 10, :title => :painter, :hobbies = [“painting”, music”], :schedule => {:monday => “painting class”, :tuesday => ”music class”}
+```
 
 ## Q5
 
@@ -133,15 +154,15 @@ Fortinet (n.d) states that ‘TCP is a communication standard to exchange messag
 
 ### Control Flow
 
-Control flow, also known as control structures, indicates the computer to complete a specific action based on whether or not a condition is met (Nayak N 2020). Reserved keywords such as if, else, elsif, and end are used for logical structures (conditionals) (Sonia Dumitru 2019).
+Control flow, also known as control structures, indicates the computer to complete a specific action based on whether or not a condition is met (_Control flow_ 2020). Reserved keywords such as if, else, elsif, and end are used for logical structures (conditionals) (Sonia Dumitru 2019).
 
 ### Decision-making Statements
 
-Nayak N (2020) explains in the control flow video
+Decision-making statemenets are explored in _Control Flow_ (2020)
 
 - **if Statement**
 
-  The control flow begins with the if keyword, then checks to see if the condition is true, and ends the control flow with the keyword end. The if, elsif, and else keyword is either executed based on whether it is true or false. 
+  The control flow begins with the if keyword, then checks to see if the condition is true, and ends the control flow with the keyword end. The `if`, `elsif`, and `else` keyword is either executed based on whether it is true or false. 
 
   ```
   raining = true
@@ -155,7 +176,7 @@ Nayak N (2020) explains in the control flow video
 
 - **Ternary operator**
   
-  The ternary operator is a shorter version for if else statements, and it works best with only one line of code in if and else block. '?' and ':' are used instead of if and else statements.
+  The ternary operator is a shorter version for if else statements, and it works best with only one line of code in if and else block. `?` and `:` are used instead of if and else statements.
 
   ```
   raining = true
@@ -165,7 +186,7 @@ Nayak N (2020) explains in the control flow video
 
 - **Case Statement**
   
-  An alternate syntax to the if else statement is the case when statement. The control flow begins with the keyword case, which then determines whether or not a condition matches with the when statement. If no other statement matches, the control flow is ended with end keyword. Case statements should not be used for simple logic such as true or false.
+  An alternate syntax to the `if else` statement is the `case when` statement. The control flow begins with the keyword case, which then determines whether or not a condition matches with the when statement. If no other statement matches, the control flow is ended with end keyword. Case statements should not be used for simple logic such as true or false.
 
   ```
   capacity = 21
@@ -219,7 +240,7 @@ Sonia Dumitru (2019) describes the following:
 
   Syntax `break`
   
-  Nayak N. (2020) uses the example in the following:
+  _Loops_ (2020) uses the code examples in the following for break, next statement
   
   ```
   iteration = 0
@@ -237,7 +258,6 @@ Sonia Dumitru (2019) describes the following:
 
   Syntax `next`
 
-  Nayak N (2020) explains the example in the Recording:
 
   ```
   iteration = 0
@@ -333,7 +353,7 @@ Sonia Dumitru (2019) describes the following:
 
 
 ## Q10
-The **Ruby** data types are explained by the Expresso Team (n.d.) are:
+The **Ruby** data types are explained by the Expresso Team (n.d.):
 | Data types | Description                                                                                                                                                                        | Example                                       |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | Numbers    | A number is a series of digits, using dot as a decimal mark. The two most common types of numbers are integers and floats, and Ruby can handle both.                               | age = 12<br> distance = 3.75                  |
