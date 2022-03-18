@@ -351,6 +351,52 @@ Sonia Dumitru (2019) describes the following:
 
 ## Q9
 
+Jesus Castello (n.d) explains the following:
+
+### Type Coercion 
+Changes one data type to another implicitly or explicitly for example: 
+
+### Explicit 
+
+Explicit conversion methods is to convert the object to the expected type.
+
+- Changes into an Array
+  
+  Syntax `to_ary`
+
+- Changes into a Hash
+
+  Syntax `to_hash`
+
+- Changes into a Integer
+
+  Syntax `to_int`
+
+- Changes into a String
+
+  Syntax `to_str`
+
+### Implicit
+
+Implicit conversion methods is to convert the object to behave like the type.
+
+- Changes an Interger to a String
+  
+  Syntax `to_s`
+
+  ```
+  :foo.to_s
+  # => "foo"
+  ```
+
+- Changes a Float to an Integer
+  
+  Syntax `to_i`
+
+  ```
+  3.0.to_i
+  # => "3"
+  ```
 
 ## Q10
 The **Ruby** data types are explained by the Expresso Team (n.d.):
