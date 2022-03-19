@@ -416,7 +416,7 @@ The **Ruby** data types are explained by the Expresso Team (n.d.):
 
 ![q.12 code snippet](./images/q.12.jpg)
 
-The code does not work due to not asking for the user’s input. Gets need to convert the input, which is a string into an integer, the same data type as the Fahrenheit calculation.
+The code does not work due to not asking for the user’s input. `gets` needs to convert the input, which is a string into an integer, the same data type as the Fahrenheit calculation.
 
 ```
 puts "What is the temperature today in Celsius to convert into Fahrenheit? "
@@ -430,10 +430,25 @@ A string is added to get the users input as a value for Celsius. `get.to_i` conv
 
 ## Q13
 
-![q.12 code snippet](./images/q.13.jpg)
+![q.13 code snippet](./images/q.13.png)
 
 ## Q14
 
 
 ## Q15
+
+```
+raining = true
+temperature = 10
+
+if raining && temperature < 15
+    puts "It's wet and cold"
+elsif !raining && temperature < 15
+    puts "It's not raining but cold"
+elsif raining && temperature >= 15
+    puts "It's warm but not raining"
+else 
+    puts "It's warm and raining"
+end
+```
 
