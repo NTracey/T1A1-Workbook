@@ -149,6 +149,49 @@ profile = {:name => “bob”, :age => 10, :title => :painter, :hobbies = [“pa
 
 ## Q7
 
+###  Access to a user’s personal information (medical, family, financial, personal attributes such as sexuality, religion, or beliefs)
+
+The Privacy Act, which includes the Australian Privacy Principles (APPs), forms the foundation of Australian privacy law. It regulates the collection, use and disclosure of personal information in Australia.
+
+The Australian Privacy Principles (APPs), which are part of the Privacy Act, are the foundation of Australian privacy law. It regulates how personal information is collected, used, and disclosed in Australia.
+
+Small businesses are not required to comply with the APPs because they are not APP entities. 
+
+Because the definition of personal information under Australian privacy law is broad, the law is ineffective in protecting users' personal information privacy, putting them at risk of having their information misused.
+
+Regulations apply to any Australian Computer Society member who works in the field of information and communications technology (ICT). The code includes ‘The Primacy of the Public Interest, The Enhancement of Quality of Life, Honesty, Competence, Professional Development, and Professionalism’. This code helps developers to not breech the public trust, but this only applies to members of the Australian Computer Society.
+
+I believe the regulation is lacking, overly broad, and ineffective in assisting developers in protecting the use of users' personal information.
+
+### Case Study
+
+The Guardian (2015) published an article titled "Facebook reveals news feed experiment to control emotions" on 689,000 users home page, Facebook experimented that if manipulating the news feed through a process called "emotional contagion" could make people feel happier or sadder.
+
+In a study with academics from Cornell and the University of California, Facebook filtered users' news feeds; the flow of comments, videos, pictures, and site links posted by other users in their social network. In one experiment, users were exposed to less "positive emotional material" from their friends, which resulted in fewer positive posts. Another experiment lowered "negative emotional content" exposure, but the opposite occurred.
+
+‘The study concluded: "Emotions expressed by friends, via online social networks, influence our own moods, constituting, to our knowledge, the first experimental evidence for massive-scale emotional contagion via social networks."
+
+According to the study, manipulating the news feed was "consistent with Facebook's data use policy, to which all users agree prior to creating an account on Facebook, constituting informed consent for this research".
+
+The study is against the breach of trust based on the US federal policy for the protection of human subjects by failing to gain 'informed consent,' which needs an explanation of the research purpose and expected duration, as well as a description of any reasonably foreseeable risks and a statement that participation is voluntary.
+
+It is important that before conducting an experiment for research it necessary to inform and gain consent before beginning the experiment. To prevent this from happening it needed to implement stricter rules on how to conduct experiment and consulting with people of expertise such as lawyers to understand what the regulations are and how to do the research in an ethical manner and realising the risk of the research on the company but also, on the participant.
+
+American Psychological Association (2003) has general principles that experiments must abide by for ‘Ethical Principles of Psychologists and Code of Conduct ‘Principle A: Beneficence and Nonmaleficence’ that is to ‘strive to benefit those with whom they work and take care to do no harm.’. ‘Principle B: Fidelity and Responsibility’ implies to ‘establish relationships of trust with those with whom they work.’. ‘Principle C: Integrity’ means ‘to promote accuracy, honesty, and truthfulness in the science, teaching, and practice of psychology.’. ‘Principle D: Justice’ which is to ‘recognize that fairness and justice entitle all persons to access to and benefit from the contributions of psychology and to equal quality in the processes, procedures, and services being conducted’. ‘Principle E: Respect for People's Rights and Dignity’ means ‘respect the dignity and worth of all people, and the rights of individuals to privacy, confidentiality, and self-determination.’
+
+NHMRC (n.d) states that ‘First, research participants may enter into a relationship with researchers whom they may not know but need to trust. This trust adds to the ethical responsibility borne by those in whom it is placed. Secondly, many who contribute as participants in human research do so altruistically, for the common good, without thought of recompense for their time and effort. This underscores the importance of protecting research patients.’
+
+To prevent the Facebook experiment incident happening the experiment must be legal, not infringe on human rights, contribute to the greater good, and be ethical.
+
+### Intellectual property, copyright, and acknowledgement
+  
+Along the rapid advancement of technology, there are ethical concerns about copyright regulations, such as misuse of intellectual property, plagiarism, etc.
+
+When software code is created, it is protected by copyright as an original literary work. To qualify as a literary work and receive copyright protection, software code does not need to be of literary quality.
+
+An example of an ethical issue is that the code does not need to be 'original', meaning that no similar code has been written before by somebody else. The author/developer must demonstrate they created the software using their own skill and labour. If a person writes different, independently produced code, copying the basic idea or functionality of software is not infringing. To protect software functionality in Australia, the copyright holder would need to file a patent application with IP Australia (IP Australia n.d).
+
+A software developer consultant that’s contracted to create software code for a business is the owner of that specific code they created under section 32 of the Copyright Act 1968 (Cth). Some consultancy agreements may include a clause stating that when the software code is created, all the software code is assigned to or will vest in the business owner, not the software developer consultant. This gives the business owner complete ownership of the software (Rigby Cooke 2016).
  
 ## Q8
 
@@ -451,4 +494,6 @@ else
     puts "It's warm and raining"
 end
 ```
+
+### Q16
 
