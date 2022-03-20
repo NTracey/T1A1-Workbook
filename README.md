@@ -494,6 +494,22 @@ A string is added to get the users input as a value for Celsius. `get.to_i` conv
 
 ![q.13 code snippet](./images/q.13.png)
 
+```
+arr = [5, 22, 29, 39, 19, 51, 78, 96, 84]
+i = 0
+while (i < arr.size - 1 and arr[i] < arr[i + 1])
+  i = i + 1
+end
+puts i
+tmp = arr[i]
+arr[i] = arr[i + 1]
+arr[i + 1] = tmp
+```
+Output
+```
+arr = [5, 22, 29, 19, 39, 51, 78, 96, 84]
+```
+
 ## Q14
 
 
