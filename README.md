@@ -454,6 +454,25 @@ The **Ruby** data types are explained by the Expresso Team (n.d.):
 
 ## Q11
 
+### 1. Greeting
+-	Greet the customer (user)
+-	Bring customer to table
+-	Explain food in menu
+-	Explain drinks in menu
+### 2. Order
+-	Come to customer in 5min
+-	Ask customer “Are you ready to take an order?”
+-	If yes, take order input
+-	Brings order to cook.
+### 3.	Cook
+-	Cook will prepare ingredient
+-	Cooks meal
+-	Food is ready
+-	Serves foods
+### 4. Payment
+-	Takes payment
+-	Give change if needed.
+
 
 ## Q12
 
