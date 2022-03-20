@@ -165,7 +165,7 @@ I believe the regulation is lacking, overly broad, and ineffective in assisting 
 
 ### Case Study
 
-The Guardian (2015) published an article titled "Facebook reveals news feed experiment to control emotions" on 689,000 users home page, Facebook experimented that if manipulating the news feed through a process called "emotional contagion" could make people feel happier or sadder.
+The Guardian (2014) published an article titled "Facebook reveals news feed experiment to control emotions" on 689,000 users home page, Facebook experimented that if manipulating the news feed through a process called "emotional contagion" could make people feel happier or sadder.
 
 In a study with academics from Cornell and the University of California, Facebook filtered users' news feeds; the flow of comments, videos, pictures, and site links posted by other users in their social network. In one experiment, users were exposed to less "positive emotional material" from their friends, which resulted in fewer positive posts. Another experiment lowered "negative emotional content" exposure, but the opposite occurred.
 
@@ -179,7 +179,7 @@ It is important that before conducting an experiment for research it necessary t
 
 American Psychological Association (2003) has general principles that experiments must abide by for ‘Ethical Principles of Psychologists and Code of Conduct ‘Principle A: Beneficence and Nonmaleficence’ that is to ‘strive to benefit those with whom they work and take care to do no harm.’. ‘Principle B: Fidelity and Responsibility’ implies to ‘establish relationships of trust with those with whom they work.’. ‘Principle C: Integrity’ means ‘to promote accuracy, honesty, and truthfulness in the science, teaching, and practice of psychology.’. ‘Principle D: Justice’ which is to ‘recognize that fairness and justice entitle all persons to access to and benefit from the contributions of psychology and to equal quality in the processes, procedures, and services being conducted’. ‘Principle E: Respect for People's Rights and Dignity’ means ‘respect the dignity and worth of all people, and the rights of individuals to privacy, confidentiality, and self-determination.’
 
-NHMRC (n.d) states that ‘First, research participants may enter into a relationship with researchers whom they may not know but need to trust. This trust adds to the ethical responsibility borne by those in whom it is placed. Secondly, many who contribute as participants in human research do so altruistically, for the common good, without thought of recompense for their time and effort. This underscores the importance of protecting research patients.’
+NHMRC (2018) states that ‘First, research participants may enter into a relationship with researchers whom they may not know but need to trust. This trust adds to the ethical responsibility borne by those in whom it is placed. Secondly, many who contribute as participants in human research do so altruistically, for the common good, without thought of recompense for their time and effort. This underscores the importance of protecting research patients.’
 
 To prevent the Facebook experiment incident happening the experiment must be legal, not infringe on human rights, contribute to the greater good, and be ethical.
 
@@ -531,4 +531,64 @@ end
 ```
 
 ### Q16
+
+# Reference
+
+- Bialy, M., 2018. How does routing table work?. [online] Grandmetric. Available at: <https://www.grandmetric.com/2018/01/20/how-does-routing-table-work/> [Accessed 15 March 2022].
+- Brain, M., Chandler, N. and Crawford, S., 2021. How Domain Name Servers Work. [online] HowStuffWorks. Available at: <https://computer.howstuffworks.com/dns.htm> [Accessed 14 March 2022].
+- Business Insider. 2018. Difference between Compiler and Interpreter. [online] Available at: <https://www.businessinsider.in/difference-between-compiler-and-interpreter/articleshow/69523408.cms> [Accessed 15 March 2022].
+- Castello, J., n.d. An Overview of Data Structures For Ruby Developers. [online] RubyGuides. Available at: <https://www.rubyguides.com/2019/04/ruby-data-structures/> [Accessed 20 March 2022].
+- Castello, J., n.d. How to Use Ruby Conversion Methods (to_s, to_a, to_str). [online] RubyGuides. Available at: <https://www.rubyguides.com/2018/09/ruby-conversion-methods/> [Accessed 19 March 2022].
+- Christensson, P., 2011. Markup Language Definition. [online] Techterms.com. Available at: <https://techterms.com/definition/markup_language#:~:text=A%20markup%20language%20is%20a,popular%20are%20HTML%20and%20XML.> [Accessed 13 March 2022].
+- Cisco. n.d. How Does a Router Work?. [online] Available at: <https://www.cisco.com/c/en_au/solutions/small-business/resource-center/networking/how-does-a-router-work.html#~what-does-a-router-do> [Accessed 15 March 2022].
+- Cisco. n.d. What You Need to Know about Routing and Switching. [online] Available at: <https://www.cisco.com/c/en_my/solutions/small-business/products/routers-switches/routing-switching-primer.html> [Accessed 16 March 2022].
+- Clark, D., 2018. What's the Difference Between Implicit vs. Explicit Programming?. [online] CloudBees. Available at: <https://www.cloudbees.com/blog/what-is-the-difference-between-implicit-vs-explicit-programming> [Accessed 19 March 2022].
+- Cloudflare. n.d. What is DNS? | How DNS works. [online] Available at: <https://www.cloudflare.com/en-au/learning/dns/what-is-dns/> [Accessed 14 March 2022].
+- Cloudflare. n.d. What is HTTPS?. [online] Available at: <https://www.cloudflare.com/en-au/learning/ssl/what-is-https/> [Accessed 16 March 2022].
+- Cloudflare.com. n.d. What is routing? | IP routing. [online] Available at: <https://www.cloudflare.com/en-au/learning/network-layer/what-is-routing/> [Accessed 15 March 2022].
+- Computerhope. 2017. What is a Domain?. [online] Available at: <https://www.computerhope.com/jargon/d/domain.htm> [Accessed 14 March 2022].
+- DataFlair. n.d. Pros and Cons of JavaScript - Weigh them and Choose wisely!. [online] Available at: <https://data-flair.training/blogs/advantages-disadvantages-javascript/> [Accessed 17 March 2022].
+- Developer.mozilla.org. 2021. An overview of HTTP - HTTP | MDN. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview> [Accessed 16 March 2022].
+- DevTut. n.d. Ruby - Control Flow. [online] Available at: <https://devtut.github.io/ruby/control-flow.html#if-elsif-else-and-end> [Accessed 17 March 2022].
+- DevTut. n.d. Ruby - Control Flow. [online] Available at: <https://devtut.github.io/ruby/control-flow.html#if-elsif-else-and-end> [Accessed 17 March 2022].
+- Dnsmadeeasy.com. n.d. What is DNS? | How DNS Works. [online] Available at: <https://dnsmadeeasy.com/support/what-is-dns> [Accessed 14 March 2022].
+- Dumitru, S., 2019. Control Flow in Ruby. [online] Medium. Available at: <https://medium.com/@soni.dumitru/control-flow-in-ruby-18bdd6bdb92d> [Accessed 17 March 2022].
+- Educative: Interactive Courses for Software Developers. n.d. Data types in Ruby. [online] Available at: <https://www.educative.io/edpresso/data-types-in-ruby> [Accessed 17 March 2022].
+- Fortinet. n.d. What is Transmission Control Protocol TCP/IP Model?. [online] Available at: <https://www.fortinet.com/resources/cyberglossary/tcp-ip> [Accessed 16 March 2022].
+- freeCodeCamp.org. 2019. The Advantages and Disadvantages of JavaScript. [online] Available at: <https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/> [Accessed 17 March 2022].
+- Full Scale. 2020. Ruby on Rails: Pros and Cons. [online] Available at: <https://fullscale.io/blog/ruby-on-rails-pros-and-cons/> [Accessed 17 March 2022].
+- GeeksforGeeks. 2019. Ruby | Control Flow Alteration. [online] Available at: <https://www.geeksforgeeks.org/ruby-control-flow-alteration/> [Accessed 17 March 2022].
+- GeeksforGeeks. 2019. Ruby | Data Types. [online] Available at: <https://www.geeksforgeeks.org/ruby-data-types/> [Accessed 17 March 2022].
+- GeeksforGeeks. 2021. Browser Developer Tools - GeeksforGeeks. [online] Available at: <https://www.geeksforgeeks.org/browser-developer-tools/> [Accessed 16 March 2022].
+- GeeksforGeeks. n.d. Ruby redo and retry Statement. [online] Available at: <https://www.geeksforgeeks.org/ruby-redo-and-retry-statement/> [Accessed 17 March 2022].
+- GeeksforGeeks. n.d. Ruby redo and retry Statement. [online] Available at: <https://www.geeksforgeeks.org/ruby-redo-and-retry-statement/> [Accessed 17 March 2022].
+- Ghate, S., 2020. HTTP Made Easy: Understanding the Web Client-Server Communication | HackerNoon. [online] Hackernoon.com. Available at: <https://hackernoon.com/http-made-easy-understanding-the-web-client-server-communication-yz783vg3> [Accessed 16 March 2022].
+- Gupta, A., 2018. Difference between Static and Dynamic Routing in Tabular Form - LEARNABHI.COM. [online] Learnabhi. Available at: <https://www.learnabhi.com/static-and-dynamic-routing/> [Accessed 15 March 2022].
+https://www.apa.org. 2017. Ethical principles of psychologists and code of conduct. [online] Available at: <https://www.apa.org/ethics/code> [Accessed 20 March 2022].
+- IPA Australia. n.d. Copyright for digital products. [online] Available at: <https://www.ipaustralia.gov.au/ip-for-digital-business/develop/copyright> [Accessed 20 March 2022].
+- IPL. n.d. The Importance Of Markup Language. [online] Available at: <https://www.ipl.org/essay/The-Importance-Of-Markup-Language-FJEJS5QAYN6> [Accessed 13 March 2022].
+- Jakubowicz, J., 2020. Pros and cons of Ruby software development. [online] Thecodest.co. Available at: <https://thecodest.co/blog/pros-and-cons-of-ruby-software-development/> [Accessed 17 March 2022].
+- LiveAction. 2021. What Is a Network Packet? | Data Packet | LiveAction. [online] Available at: <https://www.liveaction.com/resources/blog/network-packet/> [Accessed 14 March 2022].
+- Nayak, N., 2020. Loops. [online] Ait.instructure.com. Available at: <https://ait.instructure.com/courses/3972/pages/control-structures?module_item_id=336689> [Accessed 17 March 2022].
+- NHMRC. 2018. National Statement on Ethical Conduct in Human Research (2007) - Updated 2018. [online] Available at: <https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018> [Accessed 20 March 2022].
+- Ousterhout, J., 2008. Markup Languages: XML, HTML, XHTML. [online] Web.stanford.edu. Available at: <https://web.stanford.edu/~ouster/CS349W/lectures/markup.html> [Accessed 13 March 2022].
+- Programiz. n.d. Interpreter Vs Compiler : Differences Between Interpreter and Compiler. [online] Available at: <https://www.programiz.com/article/difference-compiler-interpreter> [Accessed 15 March 2022].
+- Rak, V., 2021. Pros and Cons of Ruby on Rails. [online] Sloboda-studio.com. Available at: <https://sloboda-studio.com/blog/pros-and-cons-of-ruby-on-rails/> [Accessed 17 March 2022].
+- Rigby Cooke Lawyers. 2016. Copyright ownership for software developers – who really owns the code? - Rigby Cooke Lawyers. [online] Available at: <https://www.rigbycooke.com.au/copyright-ownership-for-software-developers-who-really-owns-the-code/> [Accessed 20 March 2022].
+- Ruby-doc.org. n.d. Hash. [online] Available at: <https://ruby-doc.org/core-2.7.0/Hash.html#:~:text=A%20Hash%20is%20a%20dictionary,the%20corresponding%20keys%20were%20inserted.> [Accessed 17 March 2022].
+- sdx central. 2022. Transmission Control Protocol (TCP). [online] Available at: <https://www.sdxcentral.com/resources/glossary/transmission-control-protocol-tcp/> [Accessed 16 March 2022].
+- Seobility.net. n.d. Rendering (Web Development): Definition. [online] Available at: <https://www.seobility.net/en/wiki/Rendering> [Accessed 16 March 2022].
+- Smith, D., 2003. Five principles for research ethics. [online] https://www.apa.org. Available at: <https://www.apa.org/monitor/jan03/principles> [Accessed 20 March 2022].
+- Source Defense. n.d. Web Request - Source Defense. [online] Available at: <https://sourcedefense.com/glossary/web-request/#:~:text=A%20web%20request%20is%20a,display%20on%20the%20user's%20interface.> [Accessed 16 March 2022].
+- Swery, E., 2021. Why You Should Care About The Financial Benefit Of A Developer Tool | Rookout. [online] Rookout. Available at: <https://www.rookout.com/blog/the-financial-benefit-of-developer-tools#:~:text=Developer%20tools%20include%20software%2C%20platforms,%2C%20distractions%2C%20and%20context%20switching.> [Accessed 16 March 2022].
+- Taltech.com. n.d. A brief overview of TCP/IP communications | TALtech. [online] Available at: <https://www.taltech.com/datacollection/articles/a_brief_overview_of_tcp_ip_communications#:~:text=TCP%2FIP%20Client%20and%20Server%20Connections&text=The%20%E2%80%9CClient%E2%80%9D%20in%20a%20TCP,for%20calls%20to%20come%20in.> [Accessed 16 March 2022].
+- the Guardian. 2014. Facebook reveals news feed experiment to control emotions. [online] Available at: <https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds> [Accessed 20 March 2022].
+- Theteacher.info. 2015. An introduction to packets, IP addresses and routers. [online] Available at: <http://theteacher.info/index.php/fundamentals-of-cs/3-data-transmission/topics/2610-an-introduction-to-packets-ip-addresses-and-routers> [Accessed 13 March 2022].
+- ThousandEyes. n.d. IPv4 vs. IPv6. [online] Available at: <https://www.thousandeyes.com/learning/techtorials/ipv4-vs-ipv6> [Accessed 14 March 2022].
+- Tutorialspoint.com. n.d. HTTP - Overview. [online] Available at: <https://www.tutorialspoint.com/http/http_overview.htm> [Accessed 16 March 2022].
+- Vega, R., 2014. Explicit vs. implicit conversion methods | bigardone.dev. [online] bigardone.dev. Available at: <https://bigardone.dev/blog/2014/03/18/explicit-vs-implicit-conversion-methods> [Accessed 19 March 2022].
+- Williams, L., 2022. IPv4 vs IPv6: What is the Difference Between IPv4 and IPv6?. [online] Guru99. Available at: <https://www.guru99.com/difference-ipv4-vs-ipv6.html> [Accessed 17 March 2022].
+- Youtube 2016. [online] Available at: <https://www.youtube.com/watch?v=PpsEaqJV_A0> [Accessed 16 March 2022].
+- Youtube 2018. SSL, TLS, HTTP, HTTPS Explained. [online] Available at: <https://www.youtube.com/watch?v=hExRDVZHhig> [Accessed 16 March 2022].
+- Youtube 2019. Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages. [online] Available at: <https://www.youtube.com/watch?v=I1f45REi3k4> [Accessed 15 March 2022].
 
