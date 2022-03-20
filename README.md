@@ -512,6 +512,7 @@ arr = [5, 22, 29, 19, 39, 51, 78, 96, 84]
 
 ## Q14
 
+![flowchart](images/flowchart.png)
 
 ## Q15
 
@@ -531,6 +532,16 @@ end
 ```
 
 ### Q16
+
+### a)
+
+```
+score = {:Python => 1, :Ruby => 2, :Bash => 4, :Git => 8, :HTML => 16, :TDD => 32, :CSs => 64, :Javascript => 128}
+
+p score.inject(0) { |program, skill| program += skill[1] }
+```
+
+### b)
 
 # Reference
 
